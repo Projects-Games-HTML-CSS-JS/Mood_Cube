@@ -6,13 +6,14 @@
 
  Video on Twitter: [@bella_mrx](https://twitter.com/bella_mrx/status/1602029339746484225?s=20&t=r6dEnjDFLtHHASiTsxbiiA)
 
- ![PreviewImage](Images/ClickMePreview.PNG)
+ ![PreviewImage](Images/PreviewMood_Cube.PNG)
+
+ ![PreviewImage](Images/PreviewMood_CubeRed.PNG)
 
 
 -----------------------------------------------------------------------------------------------
-# Tutorial
+# HTML Image Map Tutorial 
 
-## Create image maps
 * Reference-sensitive graphics (image maps) are links that are embedded within a graphic. An image map defined in HTML consists of three parts:
   - the actual image added to the HTML document with the img element, additionally within the `<img>` -tag the attribute `usemap` must be specified with an anchor to a `map` element
      ```
@@ -21,7 +22,7 @@
   - the `map` element with the anchor name previously specified in the img element with the usemap attribute, it is recommended to place the `map` element at the beginning or at the end of the document
   - between `<map>` and `</map>` an area element is used for each area, there the coordinates with the actual reference sensitive area for the graphic are needed. Within the `<area>` tag, you can define a square area, a circular area, or a polygon. Each area element defines a clickable area in the image.
 
-| HTML elements | Explanation          								                |
+| HTML elements | Explanation          								  |
 | ------------- | --------------------------------------------------- |
 | `<img>`       | Inserting a graphic with an anchor on a map element |
 | `<map>`    	| Area for the reference sensitive graphic            |
