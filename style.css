@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-image: radial-gradient(circle, #ee4b2b, #553c9a);
+}
+
+.text {
+    text-align: center;
+    color: aliceblue;
+    font-size: 2vw;
+    margin: 3vw; 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+    height: 260px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#mask {
+    filter: drop-shadow(0 0 0.75rem rgb(186, 231, 231));
+}
+
+#maskparent {
+    background-repeat: no-repeat;
+    background-image: url("Images/Mood_Cube.png");
+    position: relative;
+}
+
+.contact {
+    text-align: center; 
+    margin-top: 300px;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 2vw;
+	text-decoration: none;
+	margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+	color: #55ACEE;
+}
+
+span {
+	color: aliceblue;
+}
+
