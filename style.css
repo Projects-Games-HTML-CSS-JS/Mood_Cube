@@ -5,6 +5,7 @@
 body {
     text-align: center;
     background-image: radial-gradient(circle, #ee4b2b, #553c9a);
+    text-shadow: 2px 2px 4px #000;
 }
 
 .text {

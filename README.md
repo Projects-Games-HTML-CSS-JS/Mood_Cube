@@ -6,9 +6,9 @@
 
  Video on [YouTube](https://www.youtube.com/watch?v=Zj4yssAT5OY)
 
- ![PreviewImage](Images/PreviewMood_Cube.PNG)
+ ![PreviewImage](Images/PreviewMoodCube.png)
 
- ![PreviewImage](Images/PreviewMood_CubeRed.PNG)
+ ![PreviewImage](Images/PreviewMoodCubeColor.png)
 
 
 -----------------------------------------------------------------------------------------------
