@@ -4,7 +4,7 @@
 
  Save the files in a folder and open the file "index.html" in your browser.
 
- Video on [YouTube](https://www.youtube.com/watch?v=Zj4yssAT5OY)
+ Video on [YouTube](https://youtu.be/KQFPVJfjeZM)
 
  ![PreviewImage](Images/PreviewMoodCube.png)
 
