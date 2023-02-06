@@ -2,7 +2,7 @@
 
  Mood Cube only in HTML and CSS with HTML Image map
 
- Save the files in a folder and open the file "index.html" in your browser
+ Save the files in a folder and open the file "index.html" in your browser.
 
  Video on [YouTube](https://www.youtube.com/watch?v=Zj4yssAT5OY)
 
