@@ -1,5 +1,5 @@
 * {
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -43,10 +43,10 @@ img {
 }
 
 .fa {
-	padding: 20px;
-	font-size: 2vw;
-	text-decoration: none;
-	margin: 5px 2px;
+    padding: 20px;
+    font-size: 2vw;
+    text-decoration: none;
+    margin: 5px 2px;
 }
 
 .fa:hover {
@@ -54,10 +54,10 @@ img {
 }
 
 .fa-twitter {
-	color: #55ACEE;
+    color: #55ACEE;
 }
 
 span {
-	color: aliceblue;
+    color: aliceblue;
 }
 
